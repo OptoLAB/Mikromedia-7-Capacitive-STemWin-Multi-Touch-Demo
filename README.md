@@ -3,7 +3,7 @@
 
 ## About project
 
-Project demonstrates use of STemWin graphic library on STM32 mcu for detecting multi-touch gestures (zooming, rotating, moving). Project was built using following ecosystem:
+Project demonstrates use of [STemWin](https://www.st.com/en/embedded-software/stemwin.html) graphic library on STM32 mcu for detecting multi-touch gestures (zooming, rotating, moving). Project was built using following ecosystem:
 
  - [mikromedia 7 Capacitive](https://www.mikroe.com/mikromedia-7-capacitive) development board by Mikroelektronika with STM32F767BI ([MCU CARD 23](https://www.mikroe.com/mcu-card-23-for-stm32-stm32f767bi))
  - [STM32CubeIDE 1.3.0](https://www.st.com/en/development-tools/stm32cubeide.html) - Integrated Development Environment for STM32 with [STM32CubeMX 5.6.0](https://www.st.com/en/development-tools/stm32cubemx.html) initialization code generator by STMicroelectronics
